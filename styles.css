@@ -1,0 +1,13 @@
+body{
+    background-color: var(--bs-body-color);
+    padding-top: 100px;
+}
+
+h1{
+    color: var(--bs-primary);
+}
+
+*{
+    --bs-primary: rgb(221, 32, 46);
+    --bs-body-color: rgb(50, 48, 48);
+}
